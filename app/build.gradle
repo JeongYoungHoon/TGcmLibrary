@@ -4,7 +4,7 @@ publish {
     userOrg = 'jeyechoo'
     groupId = 'com.wenoun.library'
     artifactId = 'TGcmLibrary'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     desc = ''
     website = 'https://github.com/JeongYoungHoon/TGcmLibrary'
     issueTracker = "${website}/issues"
